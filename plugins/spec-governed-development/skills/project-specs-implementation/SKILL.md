@@ -1,6 +1,7 @@
 ---
 name: project-specs-implementation
 description: Implement code changes from reconciled project PRDs, ADRs, traceability matrices, executable acceptance scenarios, or a project-specs-reconciliation implementation handoff. Use after project-specs-reconciliation has created or updated the governing specs, or when the user explicitly says the specs are already reconciled. This skill owns the spec-to-test-to-code workflow and composes with language-specific TDD, BDD, and red-green-refactor skills without replacing their framework-specific guidance.
+disable-model-invocation: true
 ---
 
 # Project Specs Implementation

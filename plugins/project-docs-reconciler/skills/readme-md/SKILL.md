@@ -1,6 +1,7 @@
 ---
 name: readme-md
 description: "Initialize or update the main README.md file for the project."
+disable-model-invocation: true
 ---
 
 The main project documentation file is located at `README.md` in the project root.

@@ -1,6 +1,7 @@
 ---
 name: gtasks-todo-manager
 description: Manages to-do items across multiple Google accounts using the Google Tasks API. Use when the user needs to create, update, complete, or organize tasks in Google Tasks, manage task lists, or view tasks across multiple Google accounts. Supports personal Gmail, Google Workspace, and organization-provisioned accounts with secure OAuth authentication.
+disable-model-invocation: true
 ---
 
 # gtasks-todo-manager

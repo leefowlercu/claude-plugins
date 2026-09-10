@@ -5,6 +5,7 @@ description: >-
   /goal objective for long-running autonomous work. Use when the user asks to
   write, improve, format, sharpen, stress-test, or activate a Codex goal,
   thread goal, durable goal, or /goal prompt.
+disable-model-invocation: true
 ---
 
 # Goalcraft

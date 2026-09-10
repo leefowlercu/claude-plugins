@@ -1,6 +1,7 @@
 ---
 name: go-standards
 description: Stdlib-grounded Go engineering standards for implementing, reviewing, refactoring, or testing Go code. Use when Codex works on Go packages, CLIs, libraries, concurrency primitives, parsers, formatters, config loading, errors, documentation, examples, table-driven tests, fuzz tests, compatibility-sensitive APIs, or repository standards for high-quality Go code.
+disable-model-invocation: true
 ---
 
 # Go Standards

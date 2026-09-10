@@ -1,6 +1,7 @@
 ---
 name: subsystem-md
 description: "Initialize or update subsystem documentation."
+disable-model-invocation: true
 ---
 
 ## Expected Input

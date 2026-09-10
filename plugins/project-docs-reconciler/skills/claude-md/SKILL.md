@@ -1,6 +1,7 @@
 ---
 name: claude-md
 description: "Initialize or update the project CLAUDE.md file."
+disable-model-invocation: true
 ---
 
 The project `CLAUDE.md` file is located at `CLAUDE.md` in the project root. This file provides context and instructions for Agents when working with the project.

@@ -1,6 +1,7 @@
 ---
 name: project-specs-reconciliation
 description: Create or update conventional project PRD and ADR documentation before implementation. Use when Codex needs to reconcile requested behavior, requirements, acceptance criteria, architecture decisions, technical tradeoffs, or implementation constraints into Product Requirements Documents under docs/PRD or a user-provided scoped PRD directory and Architectural Decision Reports under docs/ADR or a user-provided scoped ADR directory. This skill is responsible for project specification documentation and hands off code execution to project-specs-implementation.
+disable-model-invocation: true
 ---
 
 # Project Specs Reconciliation

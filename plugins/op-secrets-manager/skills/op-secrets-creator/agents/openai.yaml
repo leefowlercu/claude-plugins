@@ -2,3 +2,6 @@ interface:
   display_name: "Create 1Password Secrets"
   short_description: "Create new 1Password secrets"
   default_prompt: "Use $op-secrets-creator to store this API key in 1Password."
+
+policy:
+  allow_implicit_invocation: false
